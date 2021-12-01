@@ -1,0 +1,24 @@
+.logo__version{
+    display: none;
+}
+.MuiPaper-root{
+    background-color: #6A7485 !important;
+}
+.remove-dataset{
+    display: none;
+}
+
+.spinner {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    top: 47%;
+    bottom: 0;
+    left: 47%;
+    right: 0;
+}

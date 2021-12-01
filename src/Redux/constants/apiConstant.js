@@ -1,0 +1,3 @@
+export const ADD_LAYER ='ADD_LAYER';
+export const ADD_LAYER_SUCCESS ='ADD_LAYER_SUCCESS';
+export const ADD_LAYER_FALIURE ='ADD_LAYER_FALIURE';
